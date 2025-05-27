@@ -8,3 +8,5 @@ One page landing page for company profile using angular, slicing design => https
 - Tailwindcss
 - HyperUI
 - Fontawesome
+
+Link demo => https://coba-deploy-lemon.vercel.app/
