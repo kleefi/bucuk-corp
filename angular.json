@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "coba-deploy": {
+    "bucuk-corp": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/coba-deploy",
+            "outputPath": "dist/bucuk-corp",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": ["zone.js"],
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "coba-deploy:build:production"
+              "buildTarget": "bucuk-corp:build:production"
             },
             "development": {
-              "buildTarget": "coba-deploy:build:development"
+              "buildTarget": "bucuk-corp:build:development"
             }
           },
           "defaultConfiguration": "development"
