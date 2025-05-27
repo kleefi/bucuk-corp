@@ -9,4 +9,4 @@ One page landing page for company profile using angular, slicing design => https
 - HyperUI
 - Fontawesome
 
-Link demo => https://coba-deploy-lemon.vercel.app/
+Link demo => https://bucuk-corp.vercel.app/
